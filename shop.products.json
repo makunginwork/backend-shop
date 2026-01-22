@@ -1,0 +1,222 @@
+[{
+  "_id": {
+    "$oid": "695f941a9839fb4022a99480"
+  },
+  "name": "Samsung Galaxy S24",
+  "price": 30900,
+  "description": "มือถือ AI อัจฉริยะ",
+  "createdAt": {
+    "$date": "2026-01-08T11:25:14.865Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T11:25:14.865Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695f94589839fb4022a99482"
+  },
+  "name": "MacBook Air M2",
+  "price": 43900,
+  "description": "แล็ปท็อปบางเบา ชิป M2 แรงประหยัดไฟ",
+  "createdAt": {
+    "$date": "2026-01-08T11:26:16.957Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T11:26:16.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695f94939839fb4022a99484"
+  },
+  "name": "Sony Headphones",
+  "price": 12900,
+  "description": "หูฟังตัดเสียงรบกวนระดับโลก",
+  "createdAt": {
+    "$date": "2026-01-08T11:27:15.414Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T11:27:15.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695f94e79839fb4022a99486"
+  },
+  "name": "Logitech Mouse",
+  "price": 2500,
+  "description": "เมาส์ไร้สายเพื่อสุขภาพ",
+  "createdAt": {
+    "$date": "2026-01-08T11:28:39.427Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T11:28:39.427Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695f95119839fb4022a99488"
+  },
+  "name": "Mechanical Keyboard",
+  "price": 4500,
+  "description": "คีย์บอร์ดกลไก พิมพ์สนุก เสียงเพราะ",
+  "createdAt": {
+    "$date": "2026-01-08T11:29:21.680Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T11:29:21.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695f95349839fb4022a9948a"
+  },
+  "name": "Gaming Monitor 27 inch",
+  "price": 8900,
+  "description": "จอมอนิเตอร์ 144Hz ไหลลื่น",
+  "createdAt": {
+    "$date": "2026-01-08T11:29:56.928Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T11:29:56.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695f95629839fb4022a9948c"
+  },
+  "name": "USB-C Hub",
+  "price": 1500,
+  "description": "ตัวแปลงพอร์ตสารพัดประโยชน์",
+  "createdAt": {
+    "$date": "2026-01-08T11:30:42.281Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T11:30:42.281Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695f95809839fb4022a9948e"
+  },
+  "name": "Power Bank 20000mAh",
+  "price": 1990,
+  "description": "แบตสำรองชาร์จไว พกพาสะดวก",
+  "createdAt": {
+    "$date": "2026-01-08T11:31:12.312Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T11:31:12.312Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695f95b59839fb4022a99490"
+  },
+  "name": "Smart Watch",
+  "price": 5900,
+  "description": "นาฬิกาอัจฉริยะวัดชีพจรและก้าวเดิน",
+  "createdAt": {
+    "$date": "2026-01-08T11:32:05.555Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T11:32:05.555Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69607e2659a89355fe837a99"
+  },
+  "name": "เสื้อยืดคอกลม",
+  "price": 250,
+  "description": "ผ้า Cotton 100%",
+  "colors": [
+    "red",
+    "blue",
+    "white"
+  ],
+  "createdAt": {
+    "$date": "2026-01-09T04:03:50.243Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-09T04:03:50.243Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69688e7258e6e1980a159f26"
+  },
+  "name": "พี่มีน",
+  "price": 100000000,
+  "description": "ไก่",
+  "colors": [],
+  "createdAt": {
+    "$date": "2026-01-15T06:51:30.564Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-15T06:51:30.564Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6971e34e59957f02c166ce15"
+  },
+  "name": "cat",
+  "price": 1,
+  "description": "แมวจริง",
+  "colors": [],
+  "imageUrl": "products/e07b13c3-caf2-413e-a1aa-c66abc3818a7.png",
+  "createdAt": {
+    "$date": "2026-01-22T08:43:58.303Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-22T18:26:10.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6971e87f8739ff8b0a42a260"
+  },
+  "name": "cat",
+  "price": 1,
+  "description": "แมวจริงใจ",
+  "colors": [],
+  "imageUrl": "products/d55795cd-3381-4fc7-8289-f8404ed97fc9.png",
+  "createdAt": {
+    "$date": "2026-01-22T09:06:07.313Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-22T09:06:07.313Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6971e915121555693566d6f0"
+  },
+  "name": "cat",
+  "price": 1,
+  "description": "แมวจริงใจ",
+  "colors": [],
+  "imageUrl": "products/6dca5f62-6f9a-4298-930d-20064a732fce.png",
+  "createdAt": {
+    "$date": "2026-01-22T09:08:37.658Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-22T17:21:57.725Z"
+  },
+  "__v": 0
+}]
